@@ -1,0 +1,8 @@
+D:\ASP.net_EF\EFAppli3\EFAppli3\bin\EFAppli3.dll
+D:\ASP.net_EF\EFAppli3\EFAppli3\bin\EFAppli3.pdb
+D:\ASP.net_EF\EFAppli3\EFAppli3\bin\EntityFramework.dll
+D:\ASP.net_EF\EFAppli3\EFAppli3\bin\EntityFramework.SqlServer.dll
+D:\ASP.net_EF\EFAppli3\EFAppli3\bin\EntityFramework.xml
+D:\ASP.net_EF\EFAppli3\EFAppli3\obj\Debug\EFAppli3.dll
+D:\ASP.net_EF\EFAppli3\EFAppli3\obj\Debug\EFAppli3.pdb
+D:\ASP.net_EF\EFAppli3\EFAppli3\obj\Debug\EFAppli3.csprojResolveAssemblyReference.cache
